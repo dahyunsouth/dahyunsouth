@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={dhnn1536})](https://solved.ac/{dhnn1536})
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={dhnn1536}&theme=warm)
