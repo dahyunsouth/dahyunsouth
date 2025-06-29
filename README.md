@@ -17,22 +17,9 @@ Here are some ideas to get you started:
 
 ###
 
-<style>
-  .divider {
-    display: inline-block;
-    width: 1px;
-    height: 24px;
-    background: #c0c4c7;
-    margin: 0 8px;
-  }
-</style>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
        height="30" alt="figma logo" />
-  
-  <span class="divider"></span>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
        height="30" alt="html5 logo" />
   <img width="12" />
@@ -47,9 +34,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
        height="30" alt="react logo" />
-  
-  <span class="divider"></span>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
        height="30" alt="python logo" />
   <img width="12" />
