@@ -98,3 +98,53 @@
         <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
         <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 </div>
+
+---
+
+<div align= "left">
+    <h3>Experiences</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>경험</th>
+                <th>기간</th>
+                <th>비고</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                  <a href=https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp>삼성청년SW·AI아카데미(SSAFY)</a> 13기
+                </td>
+                <td>
+                  2025.01 ~ 2025.12
+                </td>
+                <td>
+                  수료 예정
+                </td>
+            </tr>
+            <tr>
+                <td>
+                  2025 Shinhan Hackathon with SSAFY
+                </td>
+                <td>
+                  2025.08.13 ~ 2025.08.31
+                </td>
+                <td>
+                  본선 진출
+                </td>
+            </tr>
+            <tr>
+                  <td>
+                    1st NAMUH^X Hackathon
+                  </td>
+                  <td>
+                    2025.09.22 ~ 2025.12.05
+                  </td>
+                  <td>
+                    본선 진출
+                  </td>
+              </tr>
+        </tbody>
+    </table>
+</div>
